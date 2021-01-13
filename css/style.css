@@ -310,7 +310,7 @@ border-radius: 10px;
 #lightboxmap img{
     object-fit: cover;
     width: 50%; 
-    height: 50%;  
+    height:50%;  
     border-radius: 10px;
     
 }
@@ -522,10 +522,10 @@ z-index: -10;
       
     }
 .back{
-    grid-row: 4/5;
+    
     grid-column: 8/9;
     display: flex;
-    justify-content: center;
-    align-items: flex-end;
+    justify-content: start;
+    align-items: flex-start;
     
 }
